@@ -2,8 +2,8 @@
 Um aplicativo de clima baseado em localização feito no Flutter.
 
 ![Sreenshot](https://github.com/felipeaio/Weather_Flutter_APP/blob/master/img1.png)
-
-
+![Sreenshot](https://github.com/felipeaio/Weather_Flutter_APP/blob/master/img2.png)
+![Sreenshot](https://github.com/felipeaio/Weather_Flutter_APP/blob/master/img3.png)
 
 ## Technology 
 Aqui estão as tecnologias utilizadas neste projeto.
